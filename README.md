@@ -1,3 +1,3 @@
 # My portfolio and CV
 
-[Link](valrighe.github.io)
+[Link](https://valrighe.github.io/)
